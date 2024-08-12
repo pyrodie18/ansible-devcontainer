@@ -1,0 +1,8 @@
+# Install CI dependencies for the Zabbix Roles
+ansible-core
+docker
+molecule
+netaddr
+pytest
+pytest-testinfra
+antsibull-changelog

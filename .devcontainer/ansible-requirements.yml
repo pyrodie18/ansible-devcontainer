@@ -1,0 +1,14 @@
+collections:
+- name: ansible.windows
+  version: 2.3.0
+- name: ansible.netcommon
+  version: 6.1.1
+- name: ansible.posix
+  version: 1.5.4
+- name: community.general
+  version: 8.6.0
+- name: community.mysql
+  version: 3.9.0
+- name: community.postgresql
+  version: 3.4.0
+  
